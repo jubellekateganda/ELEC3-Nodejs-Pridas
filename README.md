@@ -8,6 +8,7 @@
 | Activity | Description |
 | --- | --- |
 | [N1 - Project Setup and Package Management](set1/n1-setup/) | Set up an npm project, install dependencies, and start the program with an npm script. |
+| [N2 - Modular Calculator](set1/n2-calculator/) | Run arithmetic operations from the command line using CommonJS modules. |
 
 ### N1 - Run from the repository root
 
@@ -23,3 +24,9 @@ npm start
 ![N1 completed package.json](set1/n1-setup/screenshots/n1-package-json.png)
 
 ![N1 npm start output](set1/n1-setup/screenshots/n1-npm-start.png)
+
+### N2 - Run from the repository root
+
+```powershell
+node set1/n2-calculator/index.js add 12 8
+```
