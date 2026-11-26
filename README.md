@@ -40,3 +40,7 @@ node set1/n2-calculator/index.js add 12 8
 node set1/n3-file-manager/index.js list
 node set1/n3-file-manager/index.js read notes.txt
 ```
+
+![N3 create, read, update, and delete](set1/n3-file-manager/screenshots/n3-file-operations.png)
+
+![N3 listing full paths, filenames, extensions, and contents](set1/n3-file-manager/screenshots/n3-list-files.png)
