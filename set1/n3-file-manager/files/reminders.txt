@@ -1,0 +1,1 @@
+Capture the N3 terminal outputs.

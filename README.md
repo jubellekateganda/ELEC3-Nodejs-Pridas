@@ -9,6 +9,7 @@
 | --- | --- |
 | [N1 - Project Setup and Package Management](set1/n1-setup/) | Set up an npm project, install dependencies, and start the program with an npm script. |
 | [N2 - Modular Calculator](set1/n2-calculator/) | Run arithmetic operations from the command line using CommonJS modules. |
+| [N3 - File Manager](set1/n3-file-manager/) | Create, read, append, delete, and list text files. |
 
 ### N1 - Run from the repository root
 
@@ -32,3 +33,10 @@ node set1/n2-calculator/index.js add 12 8
 ```
 
 ![N2 calculator operations and errors](set1/n2-calculator/screenshots/n2-sample-run.png)
+
+### N3 - Run from the repository root
+
+```powershell
+node set1/n3-file-manager/index.js list
+node set1/n3-file-manager/index.js read notes.txt
+```
