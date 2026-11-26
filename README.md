@@ -30,3 +30,5 @@ npm start
 ```powershell
 node set1/n2-calculator/index.js add 12 8
 ```
+
+![N2 calculator operations and errors](set1/n2-calculator/screenshots/n2-sample-run.png)
