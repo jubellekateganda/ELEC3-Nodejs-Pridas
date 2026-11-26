@@ -18,3 +18,8 @@ npm start
 ```
 
 [Written answers](set1/n1-setup/N1_answers.pdf)
+![N1 Node.js and npm versions](set1/n1-setup/screenshots/n1-version-check.png)
+
+![N1 completed package.json](set1/n1-setup/screenshots/n1-package-json.png)
+
+![N1 npm start output](set1/n1-setup/screenshots/n1-npm-start.png)
