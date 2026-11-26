@@ -1,0 +1,20 @@
+{
+  "name": "n1-setup",
+  "version": "1.0.0",
+  "description": "ELEC 3 Node.js project setup and package management activity",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format:check": "prettier --check index.js"
+  },
+  "keywords": [],
+  "author": "Jubelle Kate Pridas",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.10.1"
+  }
+}
